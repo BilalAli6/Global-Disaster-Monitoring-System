@@ -145,11 +145,7 @@ Built with ❤️ by **Awais Ali**
 
 `#Python` `#WeatherAPI` `#USGS` `#NASA-EONET` `#Disaster-Monitoring` `#Automation` `#OpenSource` `#ClimateTech`
 
----
 
-```
-
----
 
 
 
