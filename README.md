@@ -119,8 +119,6 @@ Major earthquakes are highlighted with 🔴 and explanation in the log.
 [▶ Watch Full Video](assets/1.mp4)
    
 
-## 📸 Real-Time Running Video On Terminal
-
    
 ## 📸 Real-Time Screenshot Samples
 
