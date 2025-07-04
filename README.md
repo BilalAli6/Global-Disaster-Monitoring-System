@@ -114,6 +114,20 @@ Major earthquakes are highlighted with 🔴 and explanation in the log.
    python disaster_monitor.py
    ```
 
+## 📸 Real-Time Running Video On Terminal
+
+   
+## 📸 Real-Time Screenshot Samples
+
+<img width="692" alt="image" src="https://github.com/user-attachments/assets/179ccfbf-361a-422a-a343-9f079d64c0ad" />
+
+
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/fd782447-448c-4d61-a43e-2fa36e0c51cc" />
+
+<img width="878" alt="image" src="https://github.com/user-attachments/assets/375c9137-0e7c-4abd-9f21-4b18bb51bef1" />
+
+> 📁 These screenshots are captured from actual system output and highlight rare, moderate or hazardous events in real-time.
+
 ---
 
 ## 💡 Future Ideas
